@@ -1,0 +1,174 @@
+Code,Species,Season,Lake,System,Strata,Zone,d13C,d15N,C,N,C.N,Biomass,Latitude,Longitude
+11/10/21-ALG-GB-45,Microalgae,Wet,Garfield Bight,Alligator Creek System,,Bay,-19.26,2.61,7.39,0.86,8.593023256,5.602,-80.79908454,25.16861982
+11/10/21-ALG-GB-46,Microalgae,Wet,Garfield Bight,Alligator Creek System,,Bay,-17.78,2.6,9.72,1.21,8.033057851,0.3795,-80.80958331,25.16508427
+11/10/21-ALG-GB-47,Microalgae,Wet,Garfield Bight,Alligator Creek System,,Bay,-16.13,3.08,8.94,1.04,8.596153846,0.2986,-80.81103676,25.16067739
+11/10/21-ALG-GB-48,Microalgae,Wet,Garfield Bight,Alligator Creek System,,Bay,-17.52,3.11,6.98,0.96,7.270833333,1.6019,-80.81293645,25.15865979
+11/10/21-ALG-GB-49,Microalgae,Wet,Garfield Bight,Alligator Creek System,,Bay,-16.98,2.96,6.13,0.77,7.961038961,9.7163,-80.80514128,25.15227513
+11/10/21-ALG-MI-60,Microalgae,Wet,Middle Lake,McCormick Creek System,,Middle,-24.26,2.08,11.61,1.16,10.00862069,2.4334,-80.72674626,25.17540026
+11/10/21-ALG-MI-61,Microalgae,Wet,Middle Lake,McCormick Creek System,,Middle,-24.04,2.48,12.49,1.35,9.251851852,0.3202,-80.73227537,25.1825992
+11/10/21-ALG-MI-62,Microalgae,Wet,Middle Lake,McCormick Creek System,,Middle,-24.29,2.6,7.71,0.86,8.965116279,0.5254,-80.73329107,25.17902417
+11/10/21-ALG-MO-63,Microalgae,Wet,Monroe Lake,McCormick Creek System,,Downstream,-25.93,3.12,13.76,1.71,8.046783626,2.899,-80.74303961,25.18166491
+11/10/21-ALG-MO-65,Microalgae,Wet,Monroe Lake,McCormick Creek System,,Downstream,-24.93,3.56,15.68,1.86,8.430107527,1.4401,-80.74134466,25.16976624
+11/10/21-ALG-MO-64,Microalgae,Wet,Monroe Lake,McCormick Creek System,,Downstream,-26.32,3.53,13.25,2.09,6.339712919,0.7446,-80.74646378,25.17579064
+11/10/21-ALG-SC-73,Microalgae,Wet,Florida Bay,Florida Bay,Florida Bay,Florida Bay,-16.47,2.54,5.21,0.68,7.661764706,2.0928,-80.80269361,25.14138568
+11/10/21-ALG-SC-75,Microalgae,Wet,Florida Bay,Florida Bay,Florida Bay,Florida Bay,-17.16,2.89,6.11,0.78,7.833333333,6.4998,-80.80241819,25.14141445
+11/10/21-ALG-SP-51,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-25.32,3.19,7.98,0.86,9.279069767,0.5529,-80.72993683,25.19990408
+11/10/21-ALG-SP-53,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-25.57,3.83,8.14,0.85,9.576470588,0.7407,-80.74542021,25.19681667
+11/10/21-ALG-SP-54,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-25.82,3.42,6.68,0.57,11.71929825,0.0179,-80.73802384,25.19591601
+11/10/21-ALG-SP-55,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-25.05,2.95,8.38,0.93,9.010752688,0.5107,-80.72504,25.19203
+11/10/21-ALG-SP-57,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-24.68,2.47,9.69,0.92,10.5326087,2.1044,-80.71606,25.18531
+11/10/21-ALG-SP-58,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-24.68,2.64,8.89,0.93,9.559139785,1.0169,-80.72261906,25.18323729
+11/10/21-ALG-SP-59,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-24.36,2.23,7.85,1.19,6.596638655,0.487,-80.72021055,25.17577527
+11/10/21-ALG-TB-66,Microalgae,Wet,Terrapin Bay,McCormick Creek System,,Bay,-22.98,4.18,6.79,0.82,8.280487805,1.604,-80.72487618,25.16202773
+11/10/21-ALG-TB-67,Microalgae,Wet,Terrapin Bay,McCormick Creek System,,Bay,-22.08,4.03,9.45,0.94,10.05319149,0.7,-80.73264462,25.15789269
+11/10/21-ALG-TB-68,Microalgae,Wet,Terrapin Bay,McCormick Creek System,,Bay,-23.48,2.58,9.07,0.96,9.447916667,0.7157,-80.7422088,25.1540952
+11/10/21-ALG-TB-69,Microalgae,Wet,Terrapin Bay,McCormick Creek System,,Bay,-20.85,4.16,6.23,0.76,8.197368421,0.8437,-80.72987078,25.15371066
+11/10/21-ALG-TB-70,Microalgae,Wet,Terrapin Bay,McCormick Creek System,,Bay,-18.57,5.18,7.05,0.69,10.2173913,2.5269,-80.71582029,25.15377866
+11/10/21-ALG-TB-71,Microalgae,Wet,Terrapin Bay,McCormick Creek System,,Bay,-20.01,4.08,5.61,0.69,8.130434783,5.5856,-80.72585,25.1519
+11/10/21-ALG-TB-72,Microalgae,Wet,Terrapin Bay,McCormick Creek System,,Bay,-19.36,4.87,8.18,1.01,8.099009901,2.2882,-80.71649573,25.14546266
+11/8/21-ALG-CU-25,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-24.52,3,18.42,2.12,8.688679245,1.5289,-80.78403302,25.20664233
+11/8/21-ALG-CU-27,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-24.37,3.31,16.51,2.01,8.213930348,1.6866,-80.78064328,25.20994898
+11/8/21-ALG-CU-28,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-24.61,4.51,16.01,2.52,6.353174603,0.695,-80.76935538,25.207425
+11/8/21-ALG-CU-29,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-24.84,2.67,21.33,2.94,7.255102041,1.5061,-80.76049355,25.20948441
+11/8/21-ALG-CU-30,Microalgae,Wet,Cuthbert Rookery,Alligator Creek System,,Upstream,-22.42,2.21,19.27,1.99,9.683417085,1.0482,-80.7747838,25.20973712
+11/8/21-ALG-CU-31,Microalgae,Wet,Cuthbert Rookery,Alligator Creek System,,Upstream,-22.98,2.69,17.16,1.68,10.21428571,1.6447,-80.77454197,25.20971169
+11/8/21-ALG-CU-32,Microalgae,Wet,Cuthbert Rookery,Alligator Creek System,,Upstream,-24.63,3.18,14.79,1.53,9.666666667,1.3914,-80.7740655,25.20994538
+11/8/21-ALG-GB-44,Microalgae,Wet,Garfield Bight,Alligator Creek System,,Bay,-22.64,3.5,9.87,1.46,6.760273973,4.8715,-80.80391179,25.17568679
+11/8/21-ALG-LL-37,Microalgae,Wet,Long Lake,Alligator Creek System,,Middle,-25.27,3.7,12.22,1.58,7.734177215,2.9529,-80.79532615,25.19828574
+11/8/21-ALG-LL-38,Microalgae,Wet,Long Lake,Alligator Creek System,,Middle,-24.9,3.79,12.78,1.97,6.487309645,1.8326,-80.78867816,25.19535681
+11/8/21-ALG-LL-39,Microalgae,Wet,Long Lake,Alligator Creek System,,Middle,-23.85,2.16,15.49,2.14,7.238317757,2.6072,-80.77456057,25.18989593
+11/8/21-ALG-LU-40,Microalgae,Wet,The Lungs,Alligator Creek System,,Downstream,-25.31,2.98,12.98,1.82,7.131868132,5.9009,-80.77512156,25.17457251
+11/8/21-ALG-LU-41,Microalgae,Wet,The Lungs,Alligator Creek System,,Downstream,-24.08,2.44,8.67,1.2,7.225,2.5308,-80.76455375,25.17288717
+11/8/21-ALG-LU-42,Microalgae,Wet,The Lungs,Alligator Creek System,,Downstream,-24.61,2.49,10.59,1.36,7.786764706,1.3558,-80.76938104,25.1705475
+11/8/21-ALG-SC-76,Microalgae,Wet,Florida Bay,Florida Bay,Florida Bay,Florida Bay,-18.15,2.99,5.87,0.85,6.905882353,4.4814,-80.80284026,25.14107559
+11/8/21-ALG-WL-10,Microalgae,Wet,West Lake Bathroom,Alligator Creek System,,Upstream,-25.59,3.07,12.04,1.28,9.40625,2.8229,-80.85019736,25.21475798
+11/8/21-ALG-WL-11,Microalgae,Wet,West Lake Bathroom,Alligator Creek System,,Upstream,-23.05,2.84,15.94,1.72,9.26744186,0.8664,-80.85011894,25.2145053
+11/8/21-ALG-WL-12,Microalgae,Wet,West Lake Bathroom,Alligator Creek System,,Upstream,-23.64,3.14,14.59,1.5,9.726666667,0.6991,-80.8500916,25.21443398
+11/8/21-ALG-WL-15,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-18.88,1.07,18.89,1.87,10.10160428,1.1024,-80.80592855,25.21134233
+11/8/21-ALG-WL-16,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-21.8,4.15,16.12,1.66,9.710843373,0.3973,-80.85216703,25.20682864
+11/8/21-ALG-WL-20,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-21.98,3.86,23.86,2.29,10.41921397,0.2866,80.84218,25.20265
+11/8/21-ALG-WL-22,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-24.55,3.14,11.26,1.24,9.080645161,2.0314,-80.80071729,25.20243211
+11/8/21-ALG-WL-79,Microalgae,Wet,West Lake Bathroom,Alligator Creek System,,Upstream,-24.98,3.43,13.35,1.43,9.335664336,2.1657,-80.85022,25.21468
+11/8/21-ALG-WL-80,Microalgae,Wet,West Lake Bathroom,Alligator Creek System,,Upstream,-24.99,3.5,13.17,1.4,9.407142857,1.4599,-80.85023,25.21461
+11/9/21-ALG-CU-78,Microalgae,Wet,Cuthbert Groundwater,Alligator Creek System,,Upstream,-24.91,3.05,18.21,2.06,8.839805825,1.45,-80.76735,25.20445
+12/1/21-ALG-SP-50#2,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-25.81,3.51,8.04,0.9,8.933333333,0.3751,-80.73687793,25.20414118
+12/1/21-ALG-SP-52#2,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-25.74,3.46,7.86,0.91,8.637362637,0.2349,-80.73938668,25.19997169
+12/1/21-ALG-SP-56#2,Microalgae,Wet,Seven Palm,McCormick Creek System,,Upstream,-24.84,2.98,8.13,0.9,9.033333333,0.3397,-80.71842331,25.19179218
+12/2/21-ALG-CU-23#2,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-25.19,3.47,15.87,1.89,8.396825397,0.2463,-80.7796856,25.21275483
+12/2/21-ALG-CU-24#2,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-25.14,3.16,16.86,1.96,8.602040816,0.1672,-80.77318117,25.21161804
+12/2/21-ALG-CU-26#2,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-25.1,3.73,15.11,1.95,7.748717949,0.3931,-80.78401,25.20653
+12/2/21-ALG-CU-34#2,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-25.09,4.65,9.36,1.4,6.685714286,0.0361,-80.7789951,25.20092749
+12/2/21-ALG-CU-35#2,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-25.15,4.13,11.84,1.73,6.843930636,0.0431,-80.77300269,25.20308434
+12/2/21-ALG-CU-36#2,Microalgae,Wet,Cuthbert Groundwater,Alligator Creek System,,Upstream,-25.43,2.92,14.55,1.91,7.617801047,0.5783,-80.76756,25.20419
+12/2/21-ALG-CU-77#2,Microalgae,Wet,Cuthbert Groundwater,Alligator Creek System,,Upstream,-25.53,2.73,18.44,1.98,9.313131313,0.6285,-80.76728,25.20412
+12/2/21-ALG-WL-13#2,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-21.94,3.45,9.37,0.98,9.56122449,0.201,80.83881,25.21164
+12/2/21-ALG-WL-14#2,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-23.51,2.93,11.58,1.26,9.19047619,1.1708,80.81963,25.21331
+12/2/21-ALG-WL-17#2,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-19.55,2.55,19.33,1.74,11.1091954,0.2238,-80.84166171,25.20565088
+12/2/21-ALG-WL-18#2,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-21.13,2.42,14.02,1.46,9.602739726,0.1425,80.82776,25.20938
+12/2/21-ALG-WL-19#2,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-23.55,3.38,7.99,0.92,8.684782609,0.665,-80.80858877,25.20607654
+12/2/21-ALG-WL-21#2,Microalgae,Wet,West Lake,Alligator Creek System,,Upstream,-21.73,2.75,14.78,1.51,9.78807947,0.019,-80.8247284,25.20314321
+12/21/21-ALG-CU-33#2,Microalgae,Wet,Cuthbert Lake,Alligator Creek System,,Upstream,-25.18,3.47,13.79,1.79,7.703910615,0.1864,-80.78520595,25.20497064
+12/23/21-ALG-TSB-01,Microalgae,Wet,Taylor River,Taylor River Bridge,,Taylor River Bridge,-28.31,2.12,26.76,2.03,13.18226601,0.1221,80.60765,25.40278
+12/23/21-ALG-TSB-02,Microalgae,Wet,Taylor River,Taylor River Bridge,,Taylor River Bridge,-29.27,4.09,15.32,1.71,8.959064327,0.0266,80.60757,25.40272
+12/23/21-ALG-TSB-03,Microalgae,Wet,Taylor River,Taylor River Bridge,,Taylor River Bridge,-28.12,3.74,28.25,2.41,11.7219917,0.0914,80.60754,25.40273
+12/23/21-ALG-TSB-04,Microalgae,Wet,Taylor River,Taylor River Bridge,,Taylor River Bridge,-29.69,3.81,22.41,1.74,12.87931034,0.0614,80.60681,25.40233
+12/23/21-ALG-TSB-05,Microalgae,Wet,Taylor River,Taylor River Bridge,,Taylor River Bridge,-30.83,4.25,19.37,1.64,11.81097561,0.03,80.6069,25.40238
+12/23/21-ALG-TSB-06,Microalgae,Wet,Taylor River,Taylor River Bridge,,Taylor River Bridge,-30.14,4.27,17.4,1.72,10.11627907,0.0428,80.60698,25.40242
+12/23/21-ALG-TSSW-07#2,Microalgae,Wet,Taylor Marsh,Taylor Slough Marsh,,Taylor Slough Marsh,-32.89,2.25,34.6,3.03,11.41914191,0.7978,80.8262,25.23037
+12/23/21-ALG-TSSW-08,Microalgae,Wet,Taylor Marsh,Taylor Slough Marsh,,Taylor Slough Marsh,-33.46,2.89,33.42,3.14,10.6433121,0.2283,80.82624,25.23033
+12/23/21-ALG-TSSW-09#2,Microalgae,Wet,Taylor Marsh,Taylor Slough Marsh,,Taylor Slough Marsh,-33.28,2.43,33.71,3.12,10.80448718,0.3348,80.8262,25.23037
+5/11/22-ALG-GB-45,Microalgae,Dry,Garfield Bight,Alligator Creek System,,Bay,-16.3,3.98,7.04,0.95,7.410526316,6.1039,-80.79908454,25.16861982
+5/11/22-ALG-GB-46,Microalgae,Dry,Garfield Bight,Alligator Creek System,,Bay,-15.55,3.14,8.18,0.91,8.989010989,2.515,-80.80958331,25.16508427
+5/11/22-ALG-GB-47,Microalgae,Dry,Garfield Bight,Alligator Creek System,,Bay,-16.69,2.95,6.51,0.78,8.346153846,19.5914,-80.81103676,25.16067739
+5/11/22-ALG-GB-48,Microalgae,Dry,Garfield Bight,Alligator Creek System,,Bay,-16.6,3.04,5.24,0.69,7.594202899,8.02,-80.81293645,25.15865979
+5/11/22-ALG-GB-49,Microalgae,Dry,Garfield Bight,Alligator Creek System,,Bay,-16.64,3.44,5.7,0.74,7.702702703,2.1972,-80.80514128,25.15227513
+5/11/22-ALG-MI-60,Microalgae,Dry,Middle Lake,McCormick Creek System,,Middle,-22.68,2.04,7.8,0.91,8.571428571,2.1953,-80.72674626,25.17540026
+5/11/22-ALG-MI-61,Microalgae,Dry,Middle Lake,McCormick Creek System,,Middle,-22.14,2.42,8.32,1.05,7.923809524,0.6077,-80.73227537,25.1825992
+5/11/22-ALG-MI-62,Microalgae,Dry,Middle Lake,McCormick Creek System,,Middle,-22.79,2.85,5.45,0.76,7.171052632,0.7489,-80.73329107,25.17902417
+5/11/22-ALG-MO-63,Microalgae,Dry,Monroe Lake,McCormick Creek System,,Downstream,-21.7,1.72,9.19,1.41,6.517730496,1.1896,-80.74303961,25.18166491
+5/11/22-ALG-MO-64,Microalgae,Dry,Monroe Lake,McCormick Creek System,,Downstream,-21.89,2.06,5.76,0.93,6.193548387,0.3472,-80.74646378,25.17579064
+5/11/22-ALG-MO-65,Microalgae,Dry,Monroe Lake,McCormick Creek System,,Downstream,-20.1,2.29,8.13,0.87,9.344827586,1.9283,-80.74134466,25.16976624
+5/11/22-ALG-SC-73,Microalgae,Dry,Florida Bay,Florida Bay,Florida Bay,Florida Bay,-16.26,2.97,5.32,0.68,7.823529412,6.4627,-80.80269361,25.14138568
+5/11/22-ALG-SC-75,Microalgae,Dry,Florida Bay,Florida Bay,Florida Bay,Florida Bay,-16.15,3.2,5.59,0.69,8.101449275,1.4453,-80.80241819,25.14141445
+5/11/22-ALG-SC-76,Microalgae,Dry,Florida Bay,Florida Bay,Florida Bay,Florida Bay,-16.07,2.98,5.03,0.68,7.397058824,5.7836,-80.80284026,25.14107559
+5/11/22-ALG-SP-50,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-25.35,3.93,6.63,0.63,10.52380952,0.5777,-80.73687793,25.20414118
+5/11/22-ALG-SP-51,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-24.76,2.79,6.67,0.8,8.3375,1.0906,-80.72993683,25.19990408
+5/11/22-ALG-SP-52,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-25.14,2.92,6.52,0.77,8.467532468,0.4767,-80.73938668,25.19997169
+5/11/22-ALG-SP-53,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-25.05,2.99,6.47,0.78,8.294871795,0.3749,-80.74542021,25.19681667
+5/11/22-ALG-SP-54,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-24.68,2.83,7.11,0.83,8.56626506,0.9866,-80.73802384,25.19591601
+5/11/22-ALG-SP-55,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-24.02,2.66,8.94,1.03,8.67961165,0.082,-80.72504,25.19203
+5/11/22-ALG-SP-56,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-23.67,2.13,8.79,1.05,8.371428571,0.9572,-80.71842331,25.19179218
+5/11/22-ALG-SP-57,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-22.36,1.64,10.69,1.15,9.295652174,2.2562,-80.71606,25.18531
+5/11/22-ALG-SP-58,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-22.49,2.35,6.26,0.66,9.484848485,0.849,-80.72261906,25.18323729
+5/11/22-ALG-SP-59,Microalgae,Dry,Seven Palm,McCormick Creek System,,Upstream,-22.63,1.91,11.26,1.35,8.340740741,0.9593,-80.72021055,25.17577527
+5/11/22-ALG-TB-66,Microalgae,Dry,Terrapin Bay,McCormick Creek System,,Bay,-19.38,4.72,4.42,0.54,8.185185185,6.5265,-80.72487618,25.16202773
+5/11/22-ALG-TB-67,Microalgae,Dry,Terrapin Bay,McCormick Creek System,,Bay,-19.16,5.37,5.88,0.67,8.776119403,2.9367,-80.73264462,25.15789269
+5/11/22-ALG-TB-68,Microalgae,Dry,Terrapin Bay,McCormick Creek System,,Bay,-19.87,3.49,5.09,0.58,8.775862069,4.507,-80.7422088,25.1540952
+5/11/22-ALG-TB-69,Microalgae,Dry,Terrapin Bay,McCormick Creek System,,Bay,-18.53,4.14,6.64,0.93,7.139784946,0.6141,-80.72987078,25.15371066
+5/11/22-ALG-TB-70,Microalgae,Dry,Terrapin Bay,McCormick Creek System,,Bay,-17.77,6.41,5.33,0.68,7.838235294,2.5002,-80.71582029,25.15377866
+5/11/22-ALG-TB-71,Microalgae,Dry,Terrapin Bay,McCormick Creek System,,Bay,-18.58,3.52,5,0.62,8.064516129,4.0796,-80.72585,25.1519
+5/11/22-ALG-TB-72,Microalgae,Dry,Terrapin Bay,McCormick Creek System,,Bay,-16.62,3.96,5.59,0.82,6.817073171,6.3078,-80.71649573,25.14546266
+5/11/22-ALG-TSB-01,Microalgae,Dry,Taylor River,Taylor River Bridge,,Taylor River Bridge,-28.44,4.43,8.29,0.81,10.2345679,3.6123,-80.60765,25.40278
+5/11/22-ALG-TSB-02,Microalgae,Dry,Taylor River,Taylor River Bridge,,Taylor River Bridge,-28.32,4.36,6.61,0.69,9.579710145,4.4631,-80.60757,25.40272
+5/11/22-ALG-TSB-03,Microalgae,Dry,Taylor River,Taylor River Bridge,,Taylor River Bridge,-28.44,4.44,11.39,1.07,10.64485981,2.1424,-80.60754,25.40273
+5/11/22-ALG-TSB-04,Microalgae,Dry,Taylor River,Taylor River Bridge,,Taylor River Bridge,-29.25,5.55,13.35,1.27,10.51181102,4.0468,-80.60681,25.40233
+5/11/22-ALG-TSB-05,Microalgae,Dry,Taylor River,Taylor River Bridge,,Taylor River Bridge,-28.99,4.88,12.91,1.26,10.24603175,2.7741,-80.6069,25.40238
+5/11/22-ALG-TSB-06,Microalgae,Dry,Taylor River,Taylor River Bridge,,Taylor River Bridge,-29.46,4.77,18.05,1.64,11.00609756,0.9108,-80.60698,25.40242
+5/4/22-ALG-GB-43,Microalgae,Dry,Garfield Bight,Alligator Creek System,,Bay,-18.89,2.74,4.53,0.62,7.306451613,5.6828,-80.79588681,25.17547484
+5/4/22-ALG-GB-44,Microalgae,Dry,Garfield Bight,Alligator Creek System,,Bay,-17.94,2.44,4.32,0.59,7.322033898,7.6393,-80.80391179,25.17568679
+5/4/22-ALG-LU-42,Microalgae,Dry,The Lungs,Alligator Creek System,,Downstream,-22.47,2.33,4.82,0.75,6.426666667,0.3613,-80.76938104,25.1705475
+5/4/22-ALG-TSSW-09,Microalgae,Dry,Taylor Marsh,Taylor Slough Marsh,,Taylor Slough Marsh,-33.43,2.56,31.16,2.97,10.49158249,0.3885,-80.8262,25.23037
+5/4/22-ALG-WL-10,Microalgae,Dry,West Lake Bathroom,Alligator Creek System,,Upstream,-23.74,3.03,9.43,1.13,8.345132743,7.1495,-80.85019736,25.21475798
+5/4/22-ALG-WL-79,Microalgae,Dry,West Lake Bathroom,Alligator Creek System,,Upstream,-23.39,3.12,8.96,1.12,8,5.9094,-80.85022,25.21468
+5/9/22-ALG-CU-23,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-24.79,2.84,15.73,1.86,8.456989247,1.0536,-80.7796856,25.21275483
+5/9/22-ALG-CU-24,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-24.16,2.95,20.34,2.25,9.04,0.7107,-80.77318117,25.21161804
+5/9/22-ALG-CU-25,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-24.53,2.8,17.05,1.9,8.973684211,1.3069,-80.78403302,25.20664233
+5/9/22-ALG-CU-26,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-24.22,3.53,19.02,2.4,7.925,0.1084,-80.78401,25.20653
+5/9/22-ALG-CU-27,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-24.51,3.14,14.87,2.02,7.361386139,0.4067,-80.78064328,25.20994898
+5/9/22-ALG-CU-28,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-24.48,2.8,14.55,1.65,8.818181818,0.3133,-80.76935538,25.207425
+5/9/22-ALG-CU-29,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-21.11,1.3,12.95,1.33,9.736842105,2.8757,-80.76049355,25.20948441
+5/9/22-ALG-CU-30,Microalgae,Dry,Cuthbert Rookery,Alligator Creek System,,Upstream,-21.93,2.55,14.18,1.23,11.52845528,2.4783,-80.7747838,25.20973712
+5/9/22-ALG-CU-31,Microalgae,Dry,Cuthbert Rookery,Alligator Creek System,,Upstream,-21.79,3.96,12.03,1.06,11.3490566,2.3345,-80.77454197,25.20971169
+5/9/22-ALG-CU-32,Microalgae,Dry,Cuthbert Rookery,Alligator Creek System,,Upstream,-24.01,3.15,15.49,1.53,10.12418301,3.386,-80.7740655,25.20994538
+5/9/22-ALG-CU-33,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-24.2,3.58,11.39,1.62,7.030864198,0.0526,-80.78520595,25.20497064
+5/9/22-ALG-CU-34,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-24.64,2.81,16.88,1.97,8.568527919,0.4867,-80.7789951,25.20092749
+5/9/22-ALG-CU-35,Microalgae,Dry,Cuthbert Lake,Alligator Creek System,,Upstream,-24.59,3.07,11.68,1.62,7.209876543,0.1887,-80.77300269,25.20308434
+5/9/22-ALG-CU-36,Microalgae,Dry,Cuthbert Groundwater,Alligator Creek System,,Upstream,-24.9,3.11,12.89,1.83,7.043715847,0.3382,-80.76756,25.20419
+5/9/22-ALG-CU-77,Microalgae,Dry,Cuthbert Groundwater,Alligator Creek System,,Upstream,-24.48,3.02,14.38,1.75,8.217142857,0.4559,-80.76728,25.20412
+5/9/22-ALG-CU-78,Microalgae,Dry,Cuthbert Groundwater,Alligator Creek System,,Upstream,-24.4,2.91,16.48,2,8.24,0.3986,-80.76735,25.20445
+5/9/22-ALG-LL-37,Microalgae,Dry,Long Lake,Alligator Creek System,,Middle ,-24.39,2.64,10.64,1.34,7.940298507,2.3814,-80.79532615,25.19828574
+5/9/22-ALG-LL-38,Microalgae,Dry,Long Lake,Alligator Creek System,,Middle ,-24.32,2.77,10.37,1.37,7.569343066,2.9162,-80.78867816,25.19535681
+5/9/22-ALG-LL-39,Microalgae,Dry,Long Lake,Alligator Creek System,,Middle ,-22.48,1.94,12.89,1.67,7.718562874,2.4841,-80.77456057,25.18989593
+5/9/22-ALG-LU-40,Microalgae,Dry,The Lungs,Alligator Creek System,,Downstream,-22.65,2.55,7.25,1.02,7.107843137,5.6363,-80.77512156,25.17457251
+5/9/22-ALG-LU-41,Microalgae,Dry,The Lungs,Alligator Creek System,,Downstream,-22.8,2.34,5.56,0.84,6.619047619,0.9719,-80.76455375,25.17288717
+5/9/22-ALG-TSSW-07,Microalgae,Dry,Taylor Marsh,Taylor Slough Marsh,,Taylor Slough Marsh,-34.2,2.89,32.01,3.2,10.003125,0.2964,-80.8262,25.23037
+5/9/22-ALG-TSSW-08,Microalgae,Dry,Taylor Marsh,Taylor Slough Marsh,,Taylor Slough Marsh,-33.9,2.6,33.59,3.11,10.80064309,0.4505,-80.82624,25.23033
+5/9/22-ALG-WL-11,Microalgae,Dry,West Lake Bathroom,Alligator Creek System,,Upstream,-21.31,3.39,10.54,1.19,8.857142857,2.5311,-80.85011894,25.2145053
+5/9/22-ALG-WL-12,Microalgae,Dry,West Lake Bathroom,Alligator Creek System,,Upstream,-20.41,3.34,10.03,1.09,9.201834862,2.4868,-80.8500916,25.21443398
+5/9/22-ALG-WL-13,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-22.06,2.54,5.59,0.67,8.343283582,0.6109,-80.83881,25.21164
+5/9/22-ALG-WL-14,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-21.87,2.27,8.8,1.07,8.224299065,0.28,-80.81963,25.21331
+5/9/22-ALG-WL-15,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-18.08,0.64,17.97,1.62,11.09259259,0.7661,-80.80592855,25.21134233
+5/9/22-ALG-WL-16,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-20.21,2.09,9.23,0.97,9.515463918,0.0282,-80.85216703,25.20682864
+5/9/22-ALG-WL-17,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-16.9,0.05,17.55,1.5,11.7,0.0165,-80.84166171,25.20565088
+5/9/22-ALG-WL-18,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-20.77,1.82,11.15,1.19,9.369747899,0.0328,-80.82776,25.20938
+5/9/22-ALG-WL-19,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-22.54,3.62,7.79,0.82,9.5,0.026,-80.80858877,25.20607654
+5/9/22-ALG-WL-20,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-20.75,3.33,18.52,1.74,10.64367816,0.6463,-80.84218,25.20265
+5/9/22-ALG-WL-21,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-22.22,2.43,6.2,0.59,10.50847458,0.0071,-80.8247284,25.20314321
+5/9/22-ALG-WL-22,Microalgae,Dry,West Lake,Alligator Creek System,,Upstream,-22.42,2.81,7.86,1.02,7.705882353,0.2837,-80.80071729,25.20243211
+5/9/22-ALG-WL-80,Microalgae,Dry,West Lake Bathroom,Alligator Creek System,,Upstream,-23.86,3.02,8.53,0.97,8.793814433,32.3499,-80.85023,25.21461
+10-18-21-Exc-SC-01,Excrement,Wet,Shark Chickee,,N/A,N/A,-8.76,18.08,11.58,3.29,3.519756839,N/A,N/A,N/A
+4-11-22-Exc-CU-04,Excrement,Dry,Cuthbert Rookery,Bird Excrement,Bird Excrement,Bird Excrement,-30.14,6.23,41.34,8.01,5.161048689,N/A,N/A,N/A
+4-11-22-Exc-CU-02,Excrement,Dry,Cuthbert Rookery,Bird Excrement,Bird Excrement,Bird Excrement,-29.39,7.63,26.4,5.61,4.705882353,N/A,N/A,N/A
+4-13-22-Exc-SC-04,Excrement,Dry,Shark Chickee,,N/A,N/A,-12.15,10.08,16.96,10.14,1.672583826,N/A,N/A,N/A
+4-11-22-Exc-CU-01,Excrement,Dry,Cuthbert Rookery,Bird Excrement,Bird Excrement,Bird Excrement,-23.13,5.97,29.66,6.67,4.446776612,N/A,N/A,N/A
+10-18-21-Exc-CU-01,Excrement,Wet,Cuthbert Rookery,Bird Excrement,Bird Excrement,Bird Excrement,-22.27,7.04,30.29,21.79,1.390087196,N/A,N/A,N/A
+4-13-22-Exc-SC-02,Excrement,Dry,Shark Chickee,,N/A,N/A,-12.1,10.24,16.77,11.28,1.486702128,N/A,N/A,N/A
+10/18/21-Exc-SC-04,Excrement,Wet,Shark Chickee,,N/A,N/A,-13.98,4.22,17.82,4.07,4.378378378,N/A,N/A,N/A
+10-18-21-EXC-CU-04,Excrement,Wet,Cuthbert Rookery,Bird Excrement,Bird Excrement,Bird Excrement,-22.06,6.82,27.56,12.56,2.194267516,N/A,N/A,N/A
+10-18-21-Exc-SC-06,Excrement,Wet,Shark Chickee,,N/A,N/A,-9.28,14.22,10.24,3.68,2.782608696,N/A,N/A,N/A
+4-13-22-Exc-SC-03,Excrement,Dry,Shark Chickee,,N/A,N/A,-14.77,6.26,13.53,5.99,2.258764608,N/A,N/A,N/A
+10-18-21-Exc-SC-03,Excrement,Wet,Shark Chickee,,N/A,N/A,-14.03,4.1,17.42,4.82,3.614107884,N/A,N/A,N/A
+10-18-21-Exc-CU-02,Excrement,Wet,Cuthbert Rookery,Bird Excrement,Bird Excrement,Bird Excrement,-27.14,7.61,18.37,8.83,2.080407701,N/A,N/A,N/A
+4-11-22-Exc-CU-03,Excrement,Dry,Cuthbert Rookery,Bird Excrement,Bird Excrement,Bird Excrement,-29.8,6.7,30.79,8.31,3.705174489,N/A,N/A,N/A
+4-13-22-Exc-SC-01,Excrement,Dry,Shark Chickee,,N/A,N/A,-12.52,8.53,21.68,16.64,1.302884615,N/A,N/A,N/A
+10-18-2021-Exc-CU-06,Excrement,Wet,Cuthbert Rookery,Bird Excrement,Bird Excrement,Bird Excrement,-31.2,7.98,23.26,10.23,2.27370479,N/A,N/A,N/A
